@@ -1,0 +1,23 @@
+# Rahasia & konfigurasi lokal
+.env
+
+# Database lokal
+*.db
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+# Node / Next.js
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+
